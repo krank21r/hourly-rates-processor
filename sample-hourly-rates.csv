@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,HourlyRate,StartDate,Status
+101,John Smith,Engineering,45.50,2023-01-15,Active
+102,Jane Doe,Design,52.75,2023-02-20,Active
+103,Bob Johnson,Marketing,38.00,2023-03-10,Active
+104,Alice Brown,Engineering,48.25,2023-01-08,Active
+105,Charlie Wilson,Sales,35.50,2023-04-05,Active
+106,Diana Davis,HR,42.00,2023-02-28,Active
+107,Eve Miller,Engineering,55.00,2023-01-22,Active
+108,Frank Garcia,Marketing,40.75,2023-03-15,Active
